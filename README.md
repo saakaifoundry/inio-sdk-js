@@ -11,10 +11,13 @@ By default, `home.js` uses a Mustache template. Templates are located in the `/t
 
 When you add a new scene, you must include a script tag to the `index.html` in the `<!-- Application -->` section
 
-### Documentation
+### Wiki pages
+See [our Wiki pages](https://github.com/mautilus/inio-sdk-js/wiki) where your can download addition utilities
+
+### API Documentation
 See http://www.inio.tv/docs/
 
-### Example
+### Example Smart TV application
 See https://github.com/mautilus/inio-tvapp
 
 ### License
